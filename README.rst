@@ -1,4 +1,4 @@
-|pypi| |travis| |codecov| |downloads|
+|pypi| |codecov| |downloads|
 
 
 META3 Edc
@@ -118,14 +118,11 @@ Once logged in, go to you user account and update your group memberships. As a p
 * UNBLINDING_REVIEWERS
 
 
-.. |pypi| image:: https://img.shields.io/pypi/v/meta-edc.svg
-    :target: https://pypi.python.org/pypi/meta-edc
+.. |pypi| image:: https://img.shields.io/pypi/v/meta3-edc.svg
+    :target: https://pypi.python.org/pypi/meta3-edc
 
-.. |travis| image:: https://travis-ci.com/meta-trial/meta-edc.svg?branch=develop
-    :target: https://travis-ci.com/meta-trial/meta-edc
+.. |codecov| image:: https://codecov.io/gh/meta3-trial/meta-edc/branch/develop/graph/badge.svg
+  :target: https://codecov.io/gh/meta3-trial/meta-edc
 
-.. |codecov| image:: https://codecov.io/gh/meta-trial/meta-edc/branch/develop/graph/badge.svg
-  :target: https://codecov.io/gh/meta-trial/meta-edc
-
-.. |downloads| image:: https://pepy.tech/badge/meta-edc
-   :target: https://pepy.tech/project/meta-edc
+.. |downloads| image:: https://pepy.tech/badge/meta3-edc
+   :target: https://pepy.tech/project/meta3-edc
